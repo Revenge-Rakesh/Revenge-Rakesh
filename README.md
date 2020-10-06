@@ -1,7 +1,6 @@
 <a href="https://www.linkedin.com/in/rakesh-badavath/" target="_blank" rel="nofollow"><img align="right" alt="Rakesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/Revenge-Rakesh" target="_blank" rel="nofollow"><img align="right" alt="Rakesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
-I am Rakesh Currently working as a Software Developer.
-I'm very much inetrested in Open Source..
+I am Rakesh
 
 
 - 🔭 I’m currently working on improvising skills to contribute open source projects...
